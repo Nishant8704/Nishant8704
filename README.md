@@ -2,8 +2,9 @@
 <h3 align="center">📊 Aspiring Data Analyst | 🧠 Data Enthusiast | 🌱 Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FACC15&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+BI+Tools+%7C+Python+%7C+SQL+%7C+Machine+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FACC15&center=true&vCenter=true&width=800&lines=Data+Analyst+%7C+BI+Tools+%7C+Python+%7C+SQL+%7C+Machine+Learning" alt="Typing SVG" />
 </p>
+
 
 ---
 
