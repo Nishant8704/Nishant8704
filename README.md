@@ -1,7 +1,15 @@
-<h1 align="center">Hi there, I'm Nishant Raj 👋</h1>
-<h3 align="center">Aspiring Data Analyst | Data Enthusiast | Lifelong Learner</h3>
+<h1 align="center">👋 Hi there, I'm <span style="color:#facc15;">Nishant Raj</span></h1>
+<h3 align="center">📊 Aspiring Data Analyst | 🧠 Data Enthusiast | 🌱 Lifelong Learner</h3>
 
-<p align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FACC15&center=true&vCenter=true&width=450&lines=Data+Analyst+%7C+BI+Tools+%7C+Python+%7C+SQL+%7C+Machine+Learning" alt="Typing SVG" />
+</p>
+
+---
+
+### 🧠 Tech Stack
+
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
@@ -15,48 +23,52 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Computer Science student specializing in AI & ML at Chandigarh University.
-- 📊 Passionate about transforming raw data into actionable insights.
-- 📈 Exploring Business Intelligence, Predictive Analytics, and Machine Learning.
-- 🚀 Working on real-world data projects and case studies.
-- 🧠 Continuously learning advanced analytics tools and enhancing data storytelling skills.
+- 🎓 Final-year CSE student specializing in **AI & ML** @ Chandigarh University  
+- 📈 I love converting messy data into meaningful stories  
+- 🚀 Focused on **Business Intelligence**, **Predictive Analytics**, and **ML**  
+- 📚 Currently enhancing my **Power BI, SQL & Python** skills through real-world projects  
+- 🧩 Always curious about how data impacts decisions in business  
 
 ---
 
-### 🛠️ Skills & Tools
+### 🛠️ Skills Overview
 
-- **Languages**: Python, SQL
-- **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn
-- **Visualization**: Power BI, Tableau, Excel
-- **Databases**: MySQL, PostgreSQL
-- **Machine Learning**: Scikit-learn, Regression, Classification, Clustering
-- **Others**: Git, Jupyter Notebook, VS Code
+| Category            | Tools & Frameworks |
+|---------------------|--------------------|
+| Languages           | Python, SQL        |
+| Data Wrangling      | Pandas, NumPy      |
+| Visualization       | Power BI, Tableau, Excel |
+| Databases           | MySQL, PostgreSQL  |
+| ML Techniques       | Regression, Clustering, Classification |
+| Others              | Git, Jupyter, VS Code |
 
 ---
 
-### 📂 Featured Projects
+### 🚀 Projects Portfolio
 
-Here are some of my highlighted projects:
+💼 **[Data Warehouse SQL Project](https://github.com/Nishant8704/Data-Warehouse-SQL-Project)**  
+<sub>Designed a complete data warehouse from scratch using SQL Server including star schema modeling & ETL.</sub>
 
-#### 📦 [Data Warehouse SQL Project](https://github.com/Nishant8704/Data-Warehouse-SQL-Project)
+📊 **[End-to-End Data Dashboard – Blinkit](https://github.com/Nishant8704/End-to-End-Data-Dashboard-Blinkit)**  
+<sub>Built a Power BI dashboard analyzing operational KPIs and sales patterns for Blinkit.</sub>
 
-- **Description**: Built a modern data warehouse using SQL Server, encompassing ETL processes, data modeling, and analytics.
-- **Tools**: SQL Server, T-SQL
+📉 **[HR Attrition Analysis Dashboard](https://github.com/Nishant8704/HR-Attrition-Analysis-Dashboard)**  
+<sub>Visualized employee attrition and retention trends with interactive Power BI visuals.</sub>
 
-#### 📊 [End-to-End Data Dashboard - Blinkit](https://github.com/Nishant8704/End-to-End-Data-Dashboard-Blinkit)
+🛗 **[ElevateIQ](https://github.com/Nishant8704/ElevateIQ)**  
+<sub>Simulated an intelligent lift system with real-time floor optimization using Python.</sub>
 
-- **Description**: Developed an interactive Power BI dashboard for Blinkit, providing insights into operations, customer behavior, and sales trends.
-- **Tools**: Power BI, DAX, Excel
+---
 
-#### 📈 [HR Attrition Analysis Dashboard](https://github.com/Nishant8704/HR-Attrition-Analysis-Dashboard)
+### 📜 Certifications
 
-- **Description**: Created a Power BI dashboard analyzing employee attrition patterns to aid HR decision-making.
-- **Tools**: Power BI, DAX
+<p align="center">
+  <img src="https://img.shields.io/badge/Google%20Data%20Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Meta%20SQL%20for%20Data%20Analysis-1877F2?style=for-the-badge&logo=meta&logoColor=white"/>
+</p>
 
-#### 🛗 [ElevateIQ](https://github.com/Nishant8704/ElevateIQ)
-
-- **Description**: Simulated a smart elevator control system optimizing lift movements based on passenger requests.
-- **Tools**: Python, Tkinter
+- ✅ **Google Data Analytics Professional Certificate**  
+- ✅ **Meta Data Analysis with SQL**
 
 ---
 
@@ -69,12 +81,14 @@ Here are some of my highlighted projects:
 
 ---
 
-### 📫 Let's Connect
+### 🤝 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/nishant-raj87/)
-- 💻 [Portfolio Website](https://your-portfolio-link.com)
-- 📧 Email: nishantraj8704@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/nishant-raj87/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nishant%20Raj-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:nishantraj8704@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-nishantraj8704%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Nishant8704"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Nishant8704-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
-> *"The goal is to turn data into information, and information into insight." – Carly Fiorina*
+> 🧠 *“The goal is to turn data into information, and information into insight.” – Carly Fiorina*
